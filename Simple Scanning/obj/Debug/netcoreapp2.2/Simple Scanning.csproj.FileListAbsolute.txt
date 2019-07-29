@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\MSSA\Project Files\Week 3\Simple Scanning\bin\Debug\netcoreapp2.2\Simple Scanning.deps.json
+C:\Users\Admin\Desktop\MSSA\Project Files\Week 3\Simple Scanning\bin\Debug\netcoreapp2.2\Simple Scanning.runtimeconfig.json
+C:\Users\Admin\Desktop\MSSA\Project Files\Week 3\Simple Scanning\bin\Debug\netcoreapp2.2\Simple Scanning.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MSSA\Project Files\Week 3\Simple Scanning\bin\Debug\netcoreapp2.2\Simple Scanning.dll
+C:\Users\Admin\Desktop\MSSA\Project Files\Week 3\Simple Scanning\obj\Debug\netcoreapp2.2\Simple Scanning.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\MSSA\Project Files\Week 3\Simple Scanning\obj\Debug\netcoreapp2.2\Simple Scanning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MSSA\Project Files\Week 3\Simple Scanning\obj\Debug\netcoreapp2.2\Simple Scanning.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MSSA\Project Files\Week 3\Simple Scanning\obj\Debug\netcoreapp2.2\Simple Scanning.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MSSA\Project Files\Week 3\Simple Scanning\bin\Debug\netcoreapp2.2\Simple Scanning.pdb
+C:\Users\Admin\Desktop\MSSA\Project Files\Week 3\Simple Scanning\obj\Debug\netcoreapp2.2\Simple Scanning.dll
+C:\Users\Admin\Desktop\MSSA\Project Files\Week 3\Simple Scanning\obj\Debug\netcoreapp2.2\Simple Scanning.pdb

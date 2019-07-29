@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "fb9d692b1dd23840a4c46a3a0cc8edafffdec301"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Simple Scanning/1.0.0": {
+        "dependencies": {
+          "EO.Pdf": "19.2.11"
+        },
+        "runtime": {
+          "Simple Scanning.dll": {}
+        }
+      },
+      "EO.Pdf/19.2.11": {
+        "runtime": {
+          "lib/EO.Base.dll": {
+            "assemblyVersion": "19.2.11.0",
+            "fileVersion": "19.2.11.0"
+          },
+          "lib/EO.Pdf.dll": {
+            "assemblyVersion": "19.2.11.0",
+            "fileVersion": "19.2.11.0"
+          },
+          "lib/EO.WebBrowser.dll": {
+            "assemblyVersion": "19.2.11.0",
+            "fileVersion": "19.2.11.0"
+          },
+          "lib/EO.WebEngine.dll": {
+            "assemblyVersion": "19.2.11.0",
+            "fileVersion": "19.2.11.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple Scanning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EO.Pdf/19.2.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FSTe/3OL4tSCecWWS7xo9hVDJYonuGDhcqbefya0iWHFJC81qXKtn33lebkFofYgS1bdklp6DqXW3d0zJlAtKQ==",
+      "path": "eo.pdf/19.2.11",
+      "hashPath": "eo.pdf.19.2.11.nupkg.sha512"
+    }
+  }
+}
